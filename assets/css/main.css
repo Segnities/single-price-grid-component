@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.info-header {
+  color: #3da69f;
+}
+
+.info-license {
+    color: #c8d972;
+}
+
+.info-description {
+    color: #c9ccd2;
+}
+
+.content-subscription {
+  background-color: #2bb3b1;
+}
+
+.content-about {
+  background-color: #4abebd;
+}
